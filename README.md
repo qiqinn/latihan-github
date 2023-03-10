@@ -1,0 +1,2 @@
+# latihan-github
+ini latihan
